@@ -31,7 +31,7 @@ const Checkout = () => {
         );
       })}
       <div className="total">TOTAL: ${cartTotal}</div>
-    </div>
+    </div> 
   );
 };
 
