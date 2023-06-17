@@ -1,7 +1,7 @@
 import DirectoryItem from "../directory-item/directory-item.component";
 import "./directory.styles.scss";
 
-const Directory = ({ catagories }) => {
+const Directory = () => {
   const catagories = [
     {
       id: 1,
